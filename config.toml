@@ -41,12 +41,6 @@ home = "Home"
 logo = "images/48.png"
 menufixed = false
 
-footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerServiceTitle = "Service"
-footerQuicklinkTitle = "Quicklinks"
-footerAboutTitle = "About"
-footerSubscribeTitle = "Subscribe"
-
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
@@ -62,7 +56,7 @@ videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 [Languages.en.params.aboutSm]
 enable  = true
 title   = "The last Bangla writing solution you'll ever need!"
-description = "OpenBnagla Keyboard comes with the popular Avro Phonetic which is the de-facto phonetic transliteration method for writing Bangla. It also includes multiple fixed keyboard layouts such as Probhat, Munir Optima, National (Jatiya) etc. which are very popular amongst the professional writers."
+description = "OpenBangla Keyboard comes with the popular Avro Phonetic which is the de-facto phonetic transliteration method for writing Bangla. It also includes multiple fixed keyboard layouts such as Probhat, Munir Optima, National (Jatiya) etc. which are very popular amongst the professional writers."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -122,35 +116,3 @@ weight  = 5
 name    = "contact"
 url     = "contact"
 weight  = 6
-
-# Footer Service Menu
-[[menu.service]]
-name    = "graphicdesign"
-url     = "service"
-weight  = 1
-[[menu.service]]
-name    = "webdesign"
-url     = "service"
-weight  = 2
-[[menu.service]]
-name    = "webdevelopment"
-url     = "service"
-weight  = 3
-
-# Footer Quick links Menu
-[[menu.quicklink]]
-name    = "partners"
-url     = "about"
-weight  = 1
-[[menu.quicklink]]
-name    = "about"
-url     = "about"
-weight  = 2
-[[menu.quicklink]]
-name    = "faqs"
-url     = "about"
-weight  = 3
-[[menu.quicklink]]
-name    = "badges"
-url     = "about"
-weight  = 4
