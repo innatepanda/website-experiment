@@ -1,16 +1,16 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+  - icon  : tf-ion-android-list
+    title : Dictionary based suggestion
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Can predict and suggest phonetically similar words with correct spelling on the fly.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+  - icon  : tf-ion-flash
+    title : Fast
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Built with performance in mind. 
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+  - icon  : tf-ion-android-checkbox-outline
+    title : Auto Correct
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Brings commonly used English words to Bangla (like, Facebook, download etc.) even with their original English spelling and fixes numerous commonly mistyped words.

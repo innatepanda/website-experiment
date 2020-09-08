@@ -34,11 +34,11 @@ description = "This is meta description"
 [Languages.en]
 weight = 1
 languageCode = "en-us"
-title = "Example site multi-language"
+title = "OpenBangla Keyboard"
 dateFormat = "January 2, 2006"
 
-home = "EN Home"
-logo = "images/logo.png"
+home = "Home"
+logo = "images/48.png"
 menufixed = false
 
 footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
@@ -50,19 +50,19 @@ footerSubscribeTitle = "Subscribe"
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "We love to make brands grow"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "OpenBangla Keyboard"
+description = "An open source, Unicode compliant, Bangla input method for GNU/Linux systems. It’s a full-fledged Bangla input method with many famous typing methods and typing automation tools."
 button  = true
-btnText = "Know More"
+btnText = "Download"
 btnURL  = "https://themefisher.com/"
-videoThumb = "images/slider/video-player-thumb.jpg"
+videoThumb = "images/256.png"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title   = "The last Bangla writing solution you'll ever need!"
+description = "OpenBnagla Keyboard comes with the popular Avro Phonetic which is the de-facto phonetic transliteration method for writing Bangla. It also includes multiple fixed keyboard layouts such as Probhat, Munir Optima, National (Jatiya) etc. which are very popular amongst the professional writers."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -73,7 +73,7 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 
 # Contact Section
 [Languages.en.params.contact]
-enable  = true
+enable  = false
 topTitle= "DROP US A NOTE"
 title   = "Contact Us."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
