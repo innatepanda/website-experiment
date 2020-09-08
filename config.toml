@@ -87,20 +87,20 @@ btnText = "Contact Us"
 [menu]
 # Navbar Menus
 [[menu.nav]]
-name    = "about"
-url     = "about"
+name    = "download"
+url     = "download"
 weight  = 2
-[[menu.nav]]
-name    = "service"
-url     = "service"
-weight  = 3
-[[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
-weight  = 4
 [[menu.nav]]
 name    = "blog"
 url     = "blog"
+weight  = 3
+[[menu.nav]]
+name    = "service"
+url     = "service"
+weight  = 4
+[[menu.nav]]
+name    = "portfolio"
+url     = "portfolio"
 weight  = 5
 [[menu.nav]]
 name    = "contact"
