@@ -69,7 +69,7 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 [Languages.en.params.contact]
 enable  = true
 facebook= "https://www.facebook.com/openbanglakeyboard"
-twitter = "https://twitter.com/OpenBanglaTeam"
+twitter = "OpenBanglaTeam"
 github= "https://github.com/OpenBangla"
 mail= "mailto:openbanglateam@gmail.com"
 
