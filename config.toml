@@ -61,9 +61,9 @@ description = "**OpenBangla Keyboard** comes with the popular **Avro Phonetic** 
 # Blog Section On Homepage
 [Languages.en.params.blog]
 enable  = true
-topTitle= "OUR UNTOLD STORY"
+topTitle= "Stay Updated!"
 title   = "Blog."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+subtitle= ""
 
 # Contact Section
 [Languages.en.params.contact]

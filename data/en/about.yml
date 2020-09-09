@@ -2,9 +2,9 @@ enable  : true
 item    :
   - positionRight : false
     image : images/screenshot-1.png
-    title : Preview on-the-fly
+    title : Avro Phonetic
     description : >
-      Support for preview window to see suggestions with dictionary assistance. Type with confidence. 100% compatibility with the current classic **Avro Phonetic** scheme. The suggestion list also includes the written **English word**, which is very helpful when you just need it!
+      Support for preview window to see suggestions with dictionary assistance. Type with confidence. The suggestion list also includes the written **English word**, which is very helpful when you just need it!
 
   - positionRight : true
     image : images/screenshot-2.png
