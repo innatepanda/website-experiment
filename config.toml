@@ -73,14 +73,6 @@ twitter = "OpenBanglaTeam"
 github= "https://github.com/OpenBangla"
 mail= "mailto:openbanglateam@gmail.com"
 
-# Call to Action Section on About Page
-[Languages.en.params.cta]
-enable  = true
-bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-title   = "Let's Create Something Together"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Contact Us"
-
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
@@ -94,15 +86,3 @@ weight  = 2
 name    = "blog"
 url     = "blog"
 weight  = 3
-[[menu.nav]]
-name    = "service"
-url     = "service"
-weight  = 4
-[[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
-weight  = 5
-[[menu.nav]]
-name    = "contact"
-url     = "contact"
-weight  = 6
