@@ -21,10 +21,10 @@ item   :
     image : images/portfolio/settings.png
     category  : linux
 
-  - title : D Design
-    image : images/portfolio/portfolio-2.jpg
-    category  : ios, design
+  - title : Edit Phonetic Auto Correct Entries
+    image : images/portfolio/auto_correct.png
+    category  : linux
 
-  - title : Xbox 360
-    image : images/portfolio/portfolio-3.jpg
-    category  : photography, development
+  - title : TopBar - Changing Layouts
+    image : images/portfolio/topbar-layout.png
+    category  : linux

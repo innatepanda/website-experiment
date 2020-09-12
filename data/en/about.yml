@@ -11,3 +11,8 @@ item    :
     title : Get suggestions when writing with Provat and others
     description : >
       Get suggestions with dictionary assistance even when writing with Fixed Keyboard methods such as **Provat**, **Jatiya** and others which was **never possible before!**
+  - positionRight : false
+    image : images/topbar.png
+    title : Configuration always at your hand
+    description : >
+      Comes with a configuration tool which is very **handy** and **easy** to use!
