@@ -1,6 +1,6 @@
 ---
 title: "Install OpenBangla Keyboard"
-date: 2019-09-23T15:45:06+06:00
+date: 2020-09-23+06:00
 draft: false
 description: "Install OpenBangla Keyboard"
 ---
