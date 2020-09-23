@@ -8,14 +8,14 @@ item    :
 
   - positionRight : true
     image : images/screenshot-2.png
-    title : Get suggestions when writing with Provat and others
+    title : Get suggestions when writing with Probhat and others
     description : >
-      Get suggestions with dictionary assistance even when writing with Fixed Keyboard methods such as **Provat**, **Jatiya** and others which was **never possible before!**
+      Get suggestions with dictionary assistance even when writing with Fixed Keyboard methods such as **Probhat**, **Jatiya** and others which was **never possible before!**
   - positionRight : false
     image : images/ligation.png
-    title : Write Kar you like to do
+    title : Write Kar as you like
     description : >
-      **Traditional Kar Joining** feature of Fixed Method Layouts prevents Kars to make ligature to look like **conventional bookish** writing.
+      Use **Traditional Kar Joining** feature of Fixed Layouts and see beautiful literary kar ligatures in your writing.
   - positionRight : true
     image : images/topbar.png
     title : Configuration always at your hand

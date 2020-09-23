@@ -17,14 +17,14 @@ filtermenu :
     category  : design
 
 item   :
-  - title : Settings - Fully Customizable
+  - title : Fully Customizable
     image : images/portfolio/settings.png
     category  : linux
 
-  - title : Edit Phonetic Auto Correct Entries
+  - title : Auto Correct Entries
     image : images/portfolio/auto_correct.png
     category  : linux
 
-  - title : TopBar - Changing Layouts
+  - title : Changing Layouts
     image : images/portfolio/topbar-layout.png
     category  : linux
