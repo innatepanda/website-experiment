@@ -1,5 +1,5 @@
 ---
 title: "Blog"
-date: 2018-07-07T18:23:33+06:00
+date: 2020-09-23+06:00
 description: "Stay updated!"
 ---

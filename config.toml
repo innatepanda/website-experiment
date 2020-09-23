@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://openbangla.github.io/website-experiment/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
