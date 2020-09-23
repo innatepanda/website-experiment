@@ -1,8 +1,8 @@
 ---
-title: "Download"
-date: 2018-07-07T15:45:06+06:00
+title: "Install OpenBangla Keyboard"
+date: 2019-09-23T15:45:06+06:00
 draft: false
-description: "Download OpenBangla Keyboard"
+description: "Install OpenBangla Keyboard"
 ---
 
 **If you had installed OpenBangla Keyboard 1.5.1 or earlier version, please uninstall it first.**

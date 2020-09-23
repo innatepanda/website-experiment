@@ -1,7 +1,6 @@
 ---
 title: "ওপেনবাংলা কিবোর্ড ১.৪.০ - প্রকাশিত!"
 date: 2018-05-04
-image: images/blog/post-2.jpg
 author: Muhammad Mominul Huque
 ---
 

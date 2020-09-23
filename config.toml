@@ -39,6 +39,7 @@ dateFormat = "January 2, 2006"
 
 home = "Home"
 logo = "images/48.png"
+default = "images/blog/default.png"
 menufixed = false
 
 # Hero Area Section
@@ -47,8 +48,8 @@ enable  = true
 heading = "OpenBangla Keyboard"
 description = "An open source, Unicode compliant, Bangla input method for GNU/Linux systems. It’s a full-fledged Bangla input method with many famous typing methods and typing automation tools."
 button  = true
-btnText = "Download"
-btnURL  = "https://themefisher.com/"
+btnText = "Install"
+btnURL  = "install"
 videoThumb = "images/256.png"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
@@ -79,8 +80,8 @@ mail= "mailto:openbanglateam@gmail.com"
 [menu]
 # Navbar Menus
 [[menu.nav]]
-name    = "download"
-url     = "download"
+name    = "install"
+url     = "install"
 weight  = 2
 [[menu.nav]]
 name    = "blog"

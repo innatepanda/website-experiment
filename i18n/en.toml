@@ -1,4 +1,4 @@
-[download]
-other = "Download"
+[install]
+other = "Install"
 [blog]
 other = "Blog"

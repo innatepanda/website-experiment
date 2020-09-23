@@ -12,6 +12,11 @@ item    :
     description : >
       Get suggestions with dictionary assistance even when writing with Fixed Keyboard methods such as **Provat**, **Jatiya** and others which was **never possible before!**
   - positionRight : false
+    image : images/ligation.png
+    title : Write Kar you like to do
+    description : >
+      **Traditional Kar Joining** feature of Fixed Method Layouts prevents Kars to make ligature to look like **conventional bookish** writing.
+  - positionRight : true
     image : images/topbar.png
     title : Configuration always at your hand
     description : >

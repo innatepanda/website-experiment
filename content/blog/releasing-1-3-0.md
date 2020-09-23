@@ -2,7 +2,6 @@
 title: "ওপেনবাংলা কিবোর্ড ১.৩.০ - প্রকাশিত!"
 subtitle: "শুভ নববর্ষ!"
 date: 2018-04-27
-image: images/blog/post-2.jpg
 author: Muhammad Mominul Huque
 ---
 
