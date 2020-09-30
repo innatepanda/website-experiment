@@ -5,7 +5,7 @@ draft: false
 description: "Install OpenBangla Keyboard"
 ---
 
-**If you had installed OpenBangla Keyboard 1.5.1 or earlier version, please uninstall it first.**
+**If you had installed OpenBangla Keyboard 1.5.1 or earlier version, [please uninstall it first.](https://github.com/OpenBangla/OpenBangla-Keyboard/wiki/Uninstalling-OpenBangla-Keyboard)**
 
 First set up our repositories for your distro, then you can install normally with your package manager.
 
