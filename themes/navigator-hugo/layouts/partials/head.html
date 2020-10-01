@@ -16,7 +16,7 @@
 {{- end }}
 <meta name="author" content="{{ .Params.author }}"/>
 <!-- Social Media Tags -->
-{{- with .Site.Params.image | default .Site.Params.logo }}
+{{- with .Site.Params.image | default .Site.Params.default }}
 <meta property="og:image" content="{{ . | absURL }}" />
 <meta name="twitter:image" content="{{ . | absURL }}" />
 {{- end }}

@@ -1,4 +1,4 @@
-baseURL = "https://openbangla.github.io/website-experiment/"
+baseURL = "https://openbangla.github.io/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
@@ -7,7 +7,7 @@ summaryLength = 10
 # Build robots.txt file
 enableRobotsTXT = true
 # google analytics tracking id
-googleAnalytics = "" # your analitics ID
+googleAnalytics = "UA-83035690-1" # your analitics ID
 
 enableGitInfo = false
 pygmentsCodeFences = true
