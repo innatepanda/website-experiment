@@ -1,6 +1,6 @@
 ---
 title: "ওপেনবাংলা কিবোর্ড ২.০.০ - প্রকাশিত!"
-date: 2020-10-01
+date: 2020-10-02
 author: Muhammad Mominul Huque
 ---
 
